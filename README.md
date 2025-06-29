@@ -45,7 +45,7 @@ Go 1.22+
 🔧 Установка и запуск
 
 # Клонируйте проект
-git clone https://github.com/yourusername/shopping-list.git
+git clone https://github.com/GrammSoli/shopping-list.git
 cd shopping-list
 
 # Инициализируйте зависимости
